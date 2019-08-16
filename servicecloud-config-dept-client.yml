@@ -44,7 +44,7 @@ eureka:
 server: 
   port: 8001
 spring: 
-  profiles: dev
+  profiles: test
   application: 
     name: servicecloud-config-dept-client
   datasouce: 
